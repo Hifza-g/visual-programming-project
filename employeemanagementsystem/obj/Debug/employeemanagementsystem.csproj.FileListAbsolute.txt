@@ -1,0 +1,90 @@
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe.config
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.pdb
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Form1.resources
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Properties.Resources.resources
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.exe
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.pdb
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Home.resources
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Employee.resources
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.View.resources
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.salary.resources
+C:\Users\DELL\source\repos\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Attendance.resources
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe.config
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.pdb
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Attendance.resources
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Employee.resources
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Form1.resources
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Home.resources
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Properties.Resources.resources
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.salary.resources
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.View.resources
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.exe
+C:\Users\DELL\Desktop\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.pdb
+F:\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe.config
+F:\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe
+F:\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.pdb
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csprojAssemblyReference.cache
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Attendance.resources
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Employee.resources
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Form1.resources
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Home.resources
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Properties.Resources.resources
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.salary.resources
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.View.resources
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.GenerateResource.cache
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.CoreCompileInputs.cache
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.exe
+F:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.pdb
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe.config
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.pdb
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Attendance.resources
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Employee.resources
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Form1.resources
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Home.resources
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Properties.Resources.resources
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.salary.resources
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.View.resources
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.GenerateResource.cache
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.exe
+C:\Users\Muhammad Ilyas\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.pdb
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe.config
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.pdb
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.AssemblyReference.cache
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Attendance.resources
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Employee.resources
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Form1.resources
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Home.resources
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Properties.Resources.resources
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.salary.resources
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.View.resources
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.GenerateResource.cache
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.exe
+C:\Users\line\Downloads\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.pdb
+E:\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe.config
+E:\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.exe
+E:\employeemanagementsystem\employeemanagementsystem\bin\Debug\employeemanagementsystem.pdb
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.AssemblyReference.cache
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Attendance.resources
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Employee.resources
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Form1.resources
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Home.resources
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.Properties.Resources.resources
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.salary.resources
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.View.resources
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.GenerateResource.cache
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.csproj.CoreCompileInputs.cache
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.exe
+E:\employeemanagementsystem\employeemanagementsystem\obj\Debug\employeemanagementsystem.pdb

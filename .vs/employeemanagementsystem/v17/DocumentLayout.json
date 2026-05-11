@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\employeemanagementsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|E:\\employeemanagementsystem\\employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|solutionrelative:employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|E:\\employeemanagementsystem\\employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|solutionrelative:employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|E:\\employeemanagementsystem\\employeemanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|solutionrelative:employeemanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|E:\\employeemanagementsystem\\employeemanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|solutionrelative:employeemanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|e:\\employeemanagementsystem\\employeemanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|solutionrelative:employeemanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|employeemanagementsystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|e:\\employeemanagementsystem\\employeemanagementsystem\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|solutionrelative:employeemanagementsystem\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|e:\\employeemanagementsystem\\employeemanagementsystem\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|solutionrelative:employeemanagementsystem\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|E:\\employeemanagementsystem\\employeemanagementsystem\\resources\\home.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|solutionrelative:employeemanagementsystem\\resources\\home.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4129E6-9033-424F-88E8-9B7885590BFF}|employeemanagementsystem\\employeemanagementsystem.csproj|e:\\employeemanagementsystem\\employeemanagementsystem\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attendance.cs [Design]",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\Attendance.cs",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\Attendance.cs",
+              "ToolTip": "E:\\employeemanagementsystem\\employeemanagementsystem\\Attendance.cs [Design]",
+              "RelativeToolTip": "employeemanagementsystem\\Attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:56:28.915Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "employeemanagementsystem",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystem.csproj",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\employeemanagementsystem.csproj",
+              "ToolTip": "E:\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystem.csproj",
+              "RelativeToolTip": "employeemanagementsystem\\employeemanagementsystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-04T05:43:26.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\Form1.cs",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\Form1.cs",
+              "ToolTip": "E:\\employeemanagementsystem\\employeemanagementsystem\\Form1.cs [Design]",
+              "RelativeToolTip": "employeemanagementsystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:58:00.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.cs",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\home.cs",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\home.cs",
+              "ToolTip": "E:\\employeemanagementsystem\\employeemanagementsystem\\home.cs",
+              "RelativeToolTip": "employeemanagementsystem\\home.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:39:42.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\home.cs",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\home.cs",
+              "ToolTip": "E:\\employeemanagementsystem\\employeemanagementsystem\\home.cs [Design]",
+              "RelativeToolTip": "employeemanagementsystem\\home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:57:56.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\Form1.cs",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\Form1.cs",
+              "ToolTip": "E:\\employeemanagementsystem\\employeemanagementsystem\\Form1.cs",
+              "RelativeToolTip": "employeemanagementsystem\\Form1.cs",
+              "ViewState": "AgIAABkAAAAA3nzcXZL1v0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:58:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\Form1.Designer.cs",
+              "ToolTip": "E:\\employeemanagementsystem\\employeemanagementsystem\\Form1.Designer.cs",
+              "RelativeToolTip": "employeemanagementsystem\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:47:01.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\Attendance.cs",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\Attendance.cs",
+              "ToolTip": "E:\\employeemanagementsystem\\employeemanagementsystem\\Attendance.cs",
+              "RelativeToolTip": "employeemanagementsystem\\Attendance.cs",
+              "ViewState": "AgIAABwAAAAAUDvrc+YgwJoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:43:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home.png -  [English (United States)] - PNG [204x192, 8 bit, PNG]",
+              "DocumentMoniker": "E:\\employeemanagementsystem\\employeemanagementsystem\\Resources\\home.png",
+              "RelativeDocumentMoniker": "employeemanagementsystem\\Resources\\home.png",
+              "ToolTip": "C:\\Users\\line\\Downloads\\employeemanagementsystem\\employeemanagementsystem\\Resources\\home.png -  [English (United States)] - PNG [204x192, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-04T05:44:32.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
